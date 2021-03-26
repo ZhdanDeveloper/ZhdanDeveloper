@@ -3,4 +3,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhdandeveloper&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-![![6ARa1dH87oU](https://s19.aconvert.com/convert/p3r68-cdx67/o04zk-m01z1.gif)
+![](https://s19.aconvert.com/convert/p3r68-cdx67/o04zk-m01z1.gif)
