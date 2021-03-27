@@ -1,5 +1,5 @@
 
-## Hi everyone, im Zhdan and I am a backend (.NET Core) developer  
+## Hi everyone, my name is Zhdan and I am a backend (.NET Core) developer  
 
 ### My main development stack is .NET Core:
  * ASP.NET Core (MVC, WebApi)
